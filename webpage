@@ -33,5 +33,8 @@ alink="#99ff99">
 <br>
 <font size="+2">Footer</font><br>
 </div>
+<button><marquee>
+<img alt="{}{}{}{}{}{}{}{} Loading..."></button>
+</marquee>
 </body>
 </html>
